@@ -1,0 +1,569 @@
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\x64\SQLite.Interop.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\x86\SQLite.Interop.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe.config
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.pdb
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.Controls.Charts.XamDataChart.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.Controls.Interactions.XamDialogWindow.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.Controls.Menus.XamDataTree.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.Controls.Menus.XamMenu.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.DataManager.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.DataPresenter.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.DataVisualization.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.DragDrop.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.Editors.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\InfragisticsWPF4.v15.2.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\log4net.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Newtonsoft.Json.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.dll
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.pdb
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.dll.config
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.pdb
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\log4net.xml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\Newtonsoft.Json.xml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csprojAssemblyReference.cache
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenterBrushes.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\ExpanderStyle.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\App.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\App.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.cache
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.lref
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenter.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\General.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.baml
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.g.resources
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Forms.ConfigurationForm.resources
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Properties.Resources.resources
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csproj.GenerateResource.cache
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csproj.CoreCompileInputs.cache
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csproj.CopyComplete
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.exe
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.pdb
+C:\Proj\GIT\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe.config
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.exe
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.pdb
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.pdb
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.dll
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.dll
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.pdb
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.pdb
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenterBrushes.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\ExpanderStyle.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\App.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\App.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.cache
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.lref
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenter.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\General.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.baml
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.g.resources
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Forms.ConfigurationForm.resources
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Properties.Resources.resources
+C:\Users\LoRD320\Desktop\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csproj.GenerateResource.Cache
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe.config
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.exe
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.pdb
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csprojResolveAssemblyReference.cache
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\ExpanderStyle.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\App.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NeighborhoodHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorCodeControl.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\GroupHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ImportFileHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\LeftNavigation.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\PaginationElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\POCAgentHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\TransferHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\SoftwareHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceSchedulingElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\UpdateSourceElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ConfirmDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\App.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.cache
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI_MarkupCompile.lref
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\x64\SQLite.Interop.dll
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\x86\SQLite.Interop.dll
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.exe
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.GUI.pdb
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.dll
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.dll
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.dll
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.Common.pdb
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\Tabidus.POC.EncryptDecryptHelper.pdb
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\bin\Debug\System.Data.SQLite.xml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenterBrushes.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchMoveTargetDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveTargetDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFolderComputerDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MessageDialog.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\MainWindow.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\DataPresenter.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Themes\General.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\AssignmentCriterialElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ColorCodeCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerNameCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\DomainCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\HarddiskCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv4CriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\IPv6CriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LastSyncCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\LDAPAssignment.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\MemoryCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\ModelCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\OSCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\PlatformCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\DirectoryAssignment\VendorCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\LDAPDomainExpanderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Discovery\NetworkButtonElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\AssignmentHeader.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\ColorHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Endpoint\EndpointViewHeaderElement .baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ColorCodeCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerNameCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ComputerTypeCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\DomainCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\HarddiskCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv4CriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\IPv6CriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LabelCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\LastSyncCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\MemoryCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\ModelCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\OSCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\PlatformCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Label\VendorCriteriaElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyEnhancementElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Policy\PolicyElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\RightTreeElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Software\MainSchedulingElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\InstallationPackagesControl.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\PieChartControl.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskHeader.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Task\TaskItemElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ColorCodePage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\DirectoryAssignmentPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\AddOrEditSoftwareDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\PolicyEnhancementPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCAgentPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndpointDirectoryDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ShowLdapDirectoryDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\MoveLdapDialog.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LDAPPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\NeighborhoodWatchPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointListPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\EndPointViewPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\ImportFilePage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\LabelsPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TaskListPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\TransferPage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\SoftwarePage.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.g.resources
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Forms.ConfigurationForm.resources
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.Properties.Resources.resources
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\Tabidus.POC.GUI.csproj.GenerateResource.Cache
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Reporting\POCQuarantineHeaderElement.baml
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\UserControls\Reporting\POCQuarantineHeaderElement.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCQuarantinePage.g.cs
+C:\Users\LoRD320\Documents\Visual Studio 2015\Projects\Tabidus\Tabidus.POC.GUI\obj\Debug\View\POCQuarantinePage.baml

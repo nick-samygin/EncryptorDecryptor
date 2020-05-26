@@ -1,0 +1,20 @@
+﻿Tabidus.POC.GUI
+
+
+winexe
+C#
+.cs
+D:\Source\Repos\POC\Tabidus.POC.GUI\obj\x64\Release\
+Tabidus.POC.GUI
+none
+false
+TRACE
+D:\Source\Repos\POC\Tabidus.POC.GUI\App.xaml
+82-610038830
+
+2021046153305
+37-707804154
+MainWindow.xaml;Themes\DataPresenter.xaml;Themes\DataPresenterBrushes.xaml;Themes\ExpanderStyle.xaml;Themes\General.xaml;UserControls\DirectoryAssignment\AssignmentCriterialElement.xaml;UserControls\DirectoryAssignment\ColorCodeCriteriaElement.xaml;UserControls\DirectoryAssignment\ComputerNameCriteriaElement.xaml;UserControls\DirectoryAssignment\ComputerTypeCriteriaElement.xaml;UserControls\DirectoryAssignment\DomainCriteriaElement.xaml;UserControls\DirectoryAssignment\HarddiskCriteriaElement.xaml;UserControls\DirectoryAssignment\IPv4CriteriaElement.xaml;UserControls\DirectoryAssignment\IPv6CriteriaElement.xaml;UserControls\DirectoryAssignment\LastSyncCriteriaElement.xaml;UserControls\DirectoryAssignment\LDAPAssignment.xaml;UserControls\DirectoryAssignment\MemoryCriteriaElement.xaml;UserControls\DirectoryAssignment\ModelCriteriaElement.xaml;UserControls\DirectoryAssignment\OSCriteriaElement.xaml;UserControls\DirectoryAssignment\PlatformCriteriaElement.xaml;UserControls\DirectoryAssignment\VendorCriteriaElement.xaml;UserControls\Discovery\LDAPDomainExpanderElement.xaml;UserControls\Discovery\LDAPHeaderElement.xaml;UserControls\Discovery\NeighborhoodHeaderElement.xaml;UserControls\Discovery\NetworkButtonElement.xaml;UserControls\Endpoint\AssignmentHeader.xaml;UserControls\Endpoint\ColorCodeControl.xaml;UserControls\Endpoint\ColorHeaderElement.xaml;UserControls\Endpoint\EndpointViewHeaderElement .xaml;UserControls\Endpoint\GroupHeaderElement.xaml;UserControls\Endpoint\ImportFileHeaderElement.xaml;UserControls\Label\ColorCodeCriteriaElement.xaml;UserControls\Label\ComputerNameCriteriaElement.xaml;UserControls\Label\ComputerTypeCriteriaElement.xaml;UserControls\Label\DomainCriteriaElement.xaml;UserControls\Label\HarddiskCriteriaElement.xaml;UserControls\Label\IPv4CriteriaElement.xaml;UserControls\Label\IPv6CriteriaElement.xaml;UserControls\Label\LabelCriteriaElement.xaml;UserControls\Label\LabelHeaderElement.xaml;UserControls\Label\LastSyncCriteriaElement.xaml;UserControls\Label\MemoryCriteriaElement.xaml;UserControls\Label\ModelCriteriaElement.xaml;UserControls\Label\OSCriteriaElement.xaml;UserControls\Label\PlatformCriteriaElement.xaml;UserControls\Label\VendorCriteriaElement.xaml;UserControls\LeftNavigation.xaml;UserControls\PaginationElement.xaml;UserControls\Policy\PolicyEnhancementElement.xaml;UserControls\Policy\PolicyElement.xaml;UserControls\Policy\POCAgentHeaderElement.xaml;UserControls\RightTreeElement.xaml;UserControls\Software\MainSchedulingElement.xaml;UserControls\Software\TransferHeaderElement.xaml;UserControls\Software\SoftwareHeaderElement.xaml;UserControls\Software\UpdateSourceSchedulingElement.xaml;UserControls\Software\UpdateSourceElement.xaml;UserControls\Task\InstallationPackagesControl.xaml;UserControls\Task\PieChartControl.xaml;UserControls\Task\TaskHeader.xaml;UserControls\Task\TaskItemElement.xaml;View\ColorCodePage.xaml;View\ConfirmDialog.xaml;View\DirectoryAssignmentPage.xaml;View\AddOrEditSoftwareDialog.xaml;View\PolicyEnhancementPage.xaml;View\POCAgentPage.xaml;View\EndpointDirectoryDialog.xaml;View\ShowLdapDirectoryDialog.xaml;View\MoveLdapDialog.xaml;View\NeighborhoodWatchMoveTargetDialog.xaml;View\LDAPPage.xaml;View\NeighborhoodWatchPage.xaml;View\EndPointListPage.xaml;View\EndPointViewPage.xaml;View\ImportFilePage.xaml;View\MoveTargetDialog.xaml;View\ImportFolderComputerDialog.xaml;View\LabelsPage.xaml;View\MessageDialog.xaml;View\TaskListPage.xaml;View\TransferPage.xaml;View\SoftwarePage.xaml;
+
+True
+
